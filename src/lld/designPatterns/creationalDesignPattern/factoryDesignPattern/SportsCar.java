@@ -30,7 +30,7 @@ public class SportsCar implements Car{
 
     @Override
     public String toString() {
-        return "SportsCar{" +
+        return "SportsCarDecorator{" +
                 "steeringWheel='" + steeringWheel + '\'' +
                 ", brakes='" + brakes + '\'' +
                 ", mirrors='" + mirrors + '\'' +
